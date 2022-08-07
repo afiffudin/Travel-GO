@@ -8,7 +8,7 @@ Tahap - tahap penginstalan
 
  *         Petunjuk Pemesanan Tiket        *
  
- -> Login Menggunakan member@member.com
+ -> * Login Menggunakan member@member.com *
  -> Ke halaman Home pilih Kereta
  -> Pilih Kota Asal, kota tujuan, Kelas Kereta, Perjalanan, Tanggal Berangkat dan Jumlah Penumpang
  -> Pastikan Data Sesuai Dengan jadwal di tabel train_schedule, jika tidak sesuai maka dia tidak menampilkan data perjalanan.
