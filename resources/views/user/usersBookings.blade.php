@@ -118,7 +118,7 @@
                     <p class="col-md-6">Booking code</p>
                       <p class="col-md-6">{{$data->booking_code}}</p>
                     <p class="col-md-6">Keberangkatan</p>
-                      <p class="col-md-6">{{date('m-DD-y H:i', strtotime($data->scheT->boarding_time))}}</p>
+                      <p class="col-md-6">{{date('d-m-Y H:i', strtotime($data->scheT->boarding_time))}}</p>
                       <p class="col-md-6">Gate</p>
                         <p class="col-md-6">{{$data->scheT->platform}}</p>
                     <p class="col-md-6">Durasi</p>

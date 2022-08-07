@@ -25,7 +25,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span></button>
-                <a class="navbar-brand" href="#"><span>EZ</span>Goo</a>
+                <a class="navbar-brand" href="#"><span>TRA</span>VEL</a>
             </div>
         </div><!-- /.container-fluid -->
     </nav>
