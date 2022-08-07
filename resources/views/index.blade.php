@@ -43,18 +43,18 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="images/banner2.jpg" alt="...">
+      <img src="images/banner4.jpg" alt="...">
       <div class="carousel-caption">
        <h1>Travel Go Memberikan Kemudahan dalam memilih Tiket Perjalanan anda</h1>
       </div>
     </div>
     <div class="item">
-      <img src="images/banner3.jpg" alt="...">
+      <img src="images/banner5.jpg" alt="...">
       <div class="carousel-caption">
        <h1>Travel Go Memberikan Harga yang relatif murah dan tersedia berbagai macam pilihan tiket</h1>
       </div>
     </div>
-
+    </div>
     <div class="item">
       <img src="images/pesawat.jpg" alt="...">
       <div class="carousel-caption">

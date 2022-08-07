@@ -18,7 +18,7 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading">Login Akun EzGoo | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
+                <div class="panel-heading">Login Akun</a>
                 </div>
 
                 <div class="panel-body">
